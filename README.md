@@ -9,3 +9,5 @@ I have always been a fan of maths and sciences as a kid (friends called me the M
 I learn the concepts extremely fast, and my debugging is pretty darn good, there hasn't really been a situation where I have not managed to find a solution.
 
 Having previous experience as a Junior Tech Support Eng., I am used to challenges and quick-thinking, as well as teamwork, and autonomy.
+
+I will be attaching my SoftUni certificates on this repository, feel free to check them out!
